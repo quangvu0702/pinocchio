@@ -5,3 +5,4 @@
 03. Introduce Model.
 04. Introduce AutoGrad.
 05. Introduce Optimization.
+06. Create a complex model.
