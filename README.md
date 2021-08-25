@@ -7,3 +7,5 @@
 05. Introduce Optimization.
 06. Introduce conv model.
 07. Create Resnet.
+08. Train on GPU.
+09. Learning Rate Finder.
