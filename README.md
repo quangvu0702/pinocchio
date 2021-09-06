@@ -8,7 +8,7 @@
 06. Introduce conv model.
 07. Create Resnet.
 08. Learning Rate Finder.
-09. Optimizer 01.
-10. Optimizer 02.
-11. Optimizer 03.
+09. Optimizer 01 SGD.
+10. Optimizer 02 SGD with MOMENTUM.
+11. Optimizer 03 RMSProp.
 
