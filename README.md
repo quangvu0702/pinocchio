@@ -11,4 +11,6 @@
 09. Optimizer 01 SGD.
 10. Optimizer 02 SGD with MOMENTUM.
 11. Optimizer 03 RMSProp.
+12. Support functions for Unit Test.
+13. Implement simple model from scratch.
 
