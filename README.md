@@ -12,5 +12,7 @@
 10. Optimizer 02 SGD with MOMENTUM.
 11. Optimizer 03 RMSProp.
 12. Support functions for Unit Test.
-13. Implement simple model from scratch.
+13. Matmul from scratch.
+14. Initial value, mean and variance
+15. Batchnorm.
 
