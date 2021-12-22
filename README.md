@@ -14,6 +14,7 @@
 12. Support functions for Unit Test.
 13. Matmul from scratch.
 14. Initial value, mean and variance
-15. Language Model(1) RNN.
-15b. Language Model(2) Stack RNN.
-15c. Language Model(3) LSTM.
+15. a.Language Model(1) RNN.
+15. b.Language Model(2) Stack RNN.
+15. c.Language Model(3) LSTM.
+16. CNN for Sentence Classification.
